@@ -1,0 +1,29 @@
+# NutriOrder Menu File
+# Format: ID|Name|Description|Price|Category|Calories|Protein|Fat|Sugar|Carbs
+
+APP001|Caesar Salad|Fresh romaine lettuce with parmesan and croutons|1079.00|Appetizers|185.0|8.0|15.0|3.0|10.0
+APP002|Chicken Wings|Spicy buffalo wings with blue cheese dip|1245.00|Appetizers|320.0|25.0|22.0|2.0|5.0
+MAIN001|Grilled Salmon|Fresh Atlantic salmon with herbs and lemon|2075.00|Main Courses|410.0|40.0|25.0|0.0|2.0
+MAIN002|Chicken Parmesan|Breaded chicken breast with marinara and mozzarella|1660.00|Main Courses|580.0|45.0|32.0|8.0|28.0
+MAIN003|Vegetarian Pasta|Penne with roasted vegetables and olive oil|1410.00|Main Courses|450.0|15.0|18.0|12.0|62.0
+DES001|Chocolate Cake|Rich chocolate layer cake with ganache|745.00|Desserts|520.0|6.0|24.0|45.0|72.0
+DES002|Fruit Tart|Fresh seasonal fruits on pastry cream|665.00|Desserts|280.0|4.0|12.0|32.0|42.0
+IND001|Dal Tadka|Yellow lentils cooked with spices and herbs|350.00|Indian Foods|230.0|18.0|6.0|4.0|35.0
+IND002|Butter Chicken|Creamy tomato-based chicken curry|650.00|Indian Foods|438.0|32.0|28.0|8.0|15.0
+IND003|Chapati (2 pieces)|Whole wheat Indian flatbread|80.00|Indian Foods|142.0|5.0|2.0|1.0|28.0
+IND004|Biryani|Fragrant basmati rice with spiced chicken|450.00|Indian Foods|485.0|28.0|15.0|3.0|65.0
+IND005|Palak Paneer|Cottage cheese in creamy spinach gravy|420.00|Indian Foods|375.0|22.0|28.0|6.0|18.0
+IND006|Rajma|Red kidney beans curry with spices|320.00|Indian Foods|267.0|15.0|8.0|5.0|38.0
+PIZ001|Margherita Pizza|Classic pizza with tomato sauce, mozzarella and basil|750.00|Pizza|540.0|22.0|18.0|8.0|72.0
+PIZ002|Pepperoni Pizza|Pizza topped with spicy pepperoni slices|850.00|Pizza|628.0|28.0|26.0|6.0|68.0
+PIZ003|Chicken BBQ Pizza|Pizza with BBQ chicken, onions and cheese|950.00|Pizza|710.0|35.0|28.0|12.0|75.0
+PIZ004|Veggie Supreme|Pizza loaded with fresh vegetables|800.00|Pizza|485.0|20.0|16.0|8.0|65.0
+KEB001|Chicken Seekh Kebab|Minced chicken skewers with aromatic spices|380.00|Kebabs|285.0|28.0|15.0|2.0|5.0
+KEB002|Chicken Tikka|Marinated chicken cubes grilled to perfection|420.00|Kebabs|310.0|32.0|14.0|3.0|8.0
+KEB003|Fish Tikka|Fresh fish marinated in yogurt and spices|480.00|Kebabs|268.0|35.0|10.0|2.0|6.0
+KEB004|Mutton Kebab|Tender mutton pieces with traditional spices|550.00|Kebabs|385.0|30.0|25.0|1.0|4.0
+KEB005|Paneer Tikka|Grilled cottage cheese with bell peppers|340.00|Kebabs|295.0|18.0|20.0|4.0|12.0
+BEV001|Fresh Orange Juice|Freshly squeezed orange juice|415.00|Beverages|110.0|2.0|0.0|21.0|26.0
+BEV002|Green Tea|Organic green tea with antioxidants|250.00|Beverages|2.0|0.0|0.0|0.0|0.0
+BEV003|Lassi|Traditional yogurt-based drink|180.00|Beverages|158.0|8.0|4.0|18.0|20.0
+BEV004|Masala Chai|Spiced Indian tea with milk|120.00|Beverages|85.0|3.0|2.0|8.0|12.0
